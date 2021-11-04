@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Prototype.Next</Text>
+      <Text style={styles.text}>Start Building Project</Text>
       <StatusBar style="auto" />
     </View>
   );
